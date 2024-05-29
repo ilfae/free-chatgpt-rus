@@ -1444,7 +1444,7 @@
 
 ### 🌟 История звезд
 
-[![Диаграмма истории звезд](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt,ilfae/free-chatgpt-rus&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&ilfae/free-chatgpt-rus&Date)
 
 [Переведенно ilfae](https://github.com/ilfae) 
 [Оригинальный пост](https://github.com/LiLittleCat/awesome-free-chatgpt) by [LiLittleCat](https://github.com/LiLittleCat)
