@@ -1,4 +1,4 @@
-# Потрясающий бесплатный ChatGPT
+# Бесплатный ChatGPT
 
 ![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![中文](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/chinese.svg)](README.md) ![website count](https://img.shields.io/badge/websites-117-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
 
@@ -18,7 +18,7 @@
 
 ## Содержание
 <!-- TOC -->
-* [Потрясающий бесплатный ChatGPT](#-Потрясающий-бесплатный-ChatGPT)
+* [Бесплатный ChatGPT](#-Бесплатный-ChatGPT)
   * [Содержание](#Содержание)
   * [Зеркала ChatGPT](#-зеркала-chatgpt)
   * [Альтернативы ChatGPT](#alternativy-chatgpt)
