@@ -1,5 +1,3 @@
-[Original post](https://github.com/LiLittleCat/awesome-free-chatgpt) by [LiLittleCat](https://github.com/LiLittleCat)
-
 # Потрясающий бесплатный ChatGPT
 
 ![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![中文](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/chinese.svg)](README.md) ![website count](https://img.shields.io/badge/websites-117-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
@@ -1447,6 +1445,11 @@
 ### 🌟 История звезд
 
 [![Диаграмма истории звезд](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
+
+[Переведенно ilfae](https://github.com/ilfae) 
+[Оригинальный пост](https://github.com/LiLittleCat/awesome-free-chatgpt) by [LiLittleCat](https://github.com/LiLittleCat)
+
+
 
 ### 💞 Участники
 
