@@ -1,2 +1,1 @@
-# free-chatgpt-rus
-🆓 Бесплатные зеркальные сайты ChatGPT, постоянно обновляемые. Список бесплатных зеркальных сайтов ChatGPT, постоянно обновляемых. 
+[Original post](https://github.com/LiLittleCat/awesome-free-chatgpt) by [LiLittleCat](https://github.com/LiLittleCat)
